@@ -1,6 +1,7 @@
 ### Programming fills my spare time.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Franatrtur)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Franatrtur)](https://github.com/Franatrtur/github-readme-stats)
+[![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiputravu&theme=dark)](https://github.com/Franatrtur/github-readme-stats)
 
 Always learning! Currently:
  - NodeJS
