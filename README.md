@@ -1,16 +1,6 @@
-### Programming fills my spare time.
-
-Contact: franatrtur@gmail.com
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Franatrtur&theme=dark)](https://github.com/Franatrtur/github-readme-stats)
+### Programming fills more than just my spare time.
+### Student at FI MUNI
+### [MY WEBSITE](https://franatrtur.github.io)
 [![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Franatrtur&theme=dark)](https://github.com/Franatrtur/github-readme-stats)
 
-Always learning! Currently:
- - NodeJS
- - Git :/
- - Python
-  
- Working with:
- - PHP
- - JS
- - HTML & CSS
+Always learning!
